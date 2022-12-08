@@ -1,4 +1,5 @@
 // Program to find factorail
+// for fun xdxd
 
 #include <iostream>
 
